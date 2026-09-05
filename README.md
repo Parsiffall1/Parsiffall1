@@ -6,7 +6,7 @@ Math @ UCI · AI products
 
 <p>
   <img src="https://cdn.simpleicons.org/baidu/2932E1" height="18" alt="Baidu" />
-  &nbsp;<strong>Baidu</strong> · MeDo · AI Product Engineering Intern
+  &nbsp;<strong>Baidu</strong> · AI Product Engineering Intern
   &nbsp;·&nbsp; Jun 2026 – Sep 2026
 </p>
 
