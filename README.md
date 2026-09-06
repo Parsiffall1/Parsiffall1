@@ -1,6 +1,14 @@
+<div align="center">
+
 # Quinn Xu
 
-Math @ UCI · AI products
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/uci-badge.png" />
+    <img src="assets/uci-badge.png" height="20" alt="UCI" />
+  </picture>
+  &nbsp;Mathematics @ UC Irvine
+</p>
 
 ### Experience
 
@@ -11,7 +19,10 @@ Math @ UCI · AI products
 </p>
 
 <p>
-  <img src="assets/landwave-d.png" height="18" alt="Landwave" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/landwave-d-dark.png" />
+    <img src="assets/landwave-d-light.png" height="18" alt="Landwave" />
+  </picture>
   &nbsp;<strong>Landwave</strong> · AI Solutions Intern
   &nbsp;·&nbsp; Mar 2025 – Jun 2025
 </p>
@@ -19,3 +30,5 @@ Math @ UCI · AI products
 ### Contact
 
 [satonaoyukii@gmail.com](mailto:satonaoyukii@gmail.com)
+
+</div>
