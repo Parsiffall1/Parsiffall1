@@ -9,28 +9,31 @@
 
 ### Experience
 
-<p>
-  <img src="assets/yesfi-mark.png" height="20" alt="YesFi" align="absmiddle" />
-  &nbsp;<strong>YesFi</strong> · Campus Ambassador
-</p>
-
-<p>
-  <img src="assets/soloop-mark.png" height="20" alt="Soloop" align="absmiddle" />
-  &nbsp;<strong>Soloop</strong> · AI Product Engineer
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/baidu/2932E1" height="20" alt="Baidu" align="absmiddle" />
-  &nbsp;<strong>Baidu</strong> · AI Product Engineer
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/landwave-d-dark.png" />
-    <img src="assets/landwave-d-light.png" height="20" alt="Landwave" align="absmiddle" />
-  </picture>
-  &nbsp;<strong>Landwave</strong> · AI Solutions
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/yesfi-mark.png" height="20" width="20" alt="YesFi" align="absmiddle" />
+      &nbsp;<strong>YesFi</strong> · Campus Ambassador
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/soloop-mark.png" height="20" width="20" alt="Soloop" align="absmiddle" />
+      &nbsp;<strong>Soloop</strong> · AI Product Engineer
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/baidu-mark.png" height="20" width="20" alt="Baidu" align="absmiddle" />
+      &nbsp;<strong>Baidu</strong> · AI Product Engineer
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/landwave-mark-dark.png" />
+        <img src="assets/landwave-mark-light.png" height="20" width="20" alt="Landwave" align="absmiddle" />
+      </picture>
+      &nbsp;<strong>Landwave</strong> · AI Solutions
+    </td>
+  </tr>
+</table>
 
 ### Contact
 
