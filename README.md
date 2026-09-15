@@ -16,12 +16,12 @@
 
 <p>
   <img src="assets/soloop-mark.png" height="20" alt="Soloop" align="absmiddle" />
-  &nbsp;<strong>Soloop</strong> · AI Product Engineering Intern
+  &nbsp;<strong>Soloop</strong> · AI Product Engineer
 </p>
 
 <p>
   <img src="https://cdn.simpleicons.org/baidu/2932E1" height="20" alt="Baidu" align="absmiddle" />
-  &nbsp;<strong>Baidu</strong> · AI Product Engineering Intern
+  &nbsp;<strong>Baidu</strong> · AI Product Engineer
 </p>
 
 <p>
@@ -29,7 +29,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/landwave-d-dark.png" />
     <img src="assets/landwave-d-light.png" height="20" alt="Landwave" align="absmiddle" />
   </picture>
-  &nbsp;<strong>Landwave</strong> · AI Solutions Intern
+  &nbsp;<strong>Landwave</strong> · AI Solutions
 </p>
 
 ### Contact
